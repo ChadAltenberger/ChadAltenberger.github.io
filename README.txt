@@ -1,1 +1,1 @@
-My portfolio page.
+A brief introduction and expamples of some of my work.
