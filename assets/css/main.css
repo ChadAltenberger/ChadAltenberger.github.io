@@ -2753,10 +2753,9 @@ input[type='radio']:focus + label:before {
 	.image.fit {
 		margin: 2rem 0;
 	}
-}
-
-.image.main {
-	width: 85%;
+	.image.main {
+		width: 75%;
+	}
 }
 
 a.image {
