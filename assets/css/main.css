@@ -2755,6 +2755,10 @@ input[type='radio']:focus + label:before {
 	}
 }
 
+.image.main {
+	width: 85%;
+}
+
 a.image {
 	overflow: hidden;
 }
