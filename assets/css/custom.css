@@ -1,3 +1,8 @@
 #subTitle {
 	font-weight: lighter !important;
 }
+
+.article-5,
+.article-6 {
+	border-bottom-width: 2px;
+}

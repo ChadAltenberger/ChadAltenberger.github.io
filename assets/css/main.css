@@ -4521,6 +4521,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 2;
+	border-top: none;
 }
 
 #copyright input,
